@@ -2,6 +2,8 @@
 
 Custom highchart components with React.
 
+![Alt text](/relative/path/to/react-highchart.png?raw=true "Optional Title")
+
 
 
 ### Run Application
