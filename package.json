@@ -1,0 +1,25 @@
+{
+  "name": "cc1",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.1"
+  },
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "highcharts": "^5.0.6",
+    "highcharts-more": "^0.1.2",
+    "highcharts-solid-gauge": "^0.1.2",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-highcharts": "^11.0.0",
+    "react-highlight": "^0.9.0",
+    "style-loader": "^0.13.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
