@@ -2,7 +2,7 @@
 
 Custom highchart components with React.
 
-<img width="800" src="react-highchart.jpg" border="0" />
+<img width="800" src="react-highchart.png" border="0" />
 
 
 
